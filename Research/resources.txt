@@ -1,0 +1,8 @@
+1. privacy and security in mobile health: a research agenda- Kotz, D et al
+2. information security threats in patient centered healthcare - alsalamah (pdf not available ,link : https://www.igi-global.com/chapter/information-security-threats-in-patient-centred-healthcare/145016)
+3. blockchain blueprint for a new economy - swan M
+4. Blockchain for health data and its potential use in health it and health care related research - Linn LA  and koo
+5. Lightweight backup and efficient recovery scheme for health  blockchain keys - zhao H
+6. Blockchain technology in healthcare the revolution starts here - Meuler M, Hsg 
+7. Metrics  for  Assessing  Blockchain-based
+Healthcare  Decentralized  Apps - Peng Zhang
